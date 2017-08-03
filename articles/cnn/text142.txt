@@ -1,0 +1,29 @@
+Your grocery store's tomatoes may have a new friend aiding their development: artificial intelligence.
+
+NatureSweet, which grows tomatoes on six farms in the United States and Mexico, is using artificial intelligence to better control pests and diseases in its greenhouses.
+
+The technology, developed by the Israeli digital farming company Prospera, has already improved harvests and reduced labor costs. NatureSweet began testing the technology almost a year ago at one of its farms in Arizona. It plans to roll the tech out to all of its locations soon.
+
+Adrian Almeida, chief innovation officer at NatureSweet, believes artificial intelligence will eventually improve his greenhouses tomato yields by 20%.
+
+Related: How farmers use digital agriculture to grow more crops
+
+"It'll be better for the environment and for the customer," Almeida said.
+
+Farms are increasingly using technology to grow crops, from task-tracking systems that monitor watering and seeding to drones that capture aerial images.
+
+So far, NatureSweet's weekly harvests have grown 2% to 4%. This may seem modest, but the results makes a big difference when growing millions of pounds of tomatoes a year.
+
+To use the method, NatureSweet installed 10 cameras in greenhouse ceilings. The cameras continuously take photos of the crops below. Prospera's software has been trained to recognize trouble, such as insect infestations or dying plants.
+
+Previously, some of NatureSweet's 8,000 employees were tasked with walking through the greenhouses to identify struggling plants. But the process was slow and expensive. NatureSweet did this only once a week.
+
+The cameras from Prospera monitor the plants 24/7 and provide instant feedback.
+
+Prospera's founder Daniel Koppel previously researched how to predict crop yields from satellite photos -- insights that can be used to trade commodities on Wall Street. Instead, he built his own business, figuring it would have a greater global impact.
+
+NatureSweet has also experimented with using the cameras to forecast when plants are ready to be harvested.
+
+Although Almeida said that aspect of the technology is still a work in progress, improved efficiency is apparent. He estimated NatureSweet's headcount would have to grow by 4% without it.
+
+The company announced this week it raised $15 million from investors such as Qualcomm Ventures and Cisco Investments to fund expansion. Prospera plans to track more crops, including peppers and potatoes, as well as monitor plants outside greenhouses.

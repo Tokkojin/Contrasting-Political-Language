@@ -1,0 +1,27 @@
+You don't need to bring a ticket, get your hand stamped or flash a driver's license for admission to one tourist destination in China. All visitors need is something they can't lose — their face.
+
+Baidu, a Chinese tech company, began testing facial recognition technology last week in Wuzhen, a historic town with classic canals and architecture. The area receives millions of visitors each year.
+
+The technology has shortened wait times and added convenience for guests. So far feedback has been positive, according to Baidu (BIDU, Tech30) and the Wuzhen Tourism Co.
+
+When a visitor arrives, their photo is taken and uploaded to a database. When he or she attempts to access certain parts of the town, a tablet attached to the entry gates records video. It then send a few frames to the cloud, where artificial intelligence identifies if the person seeking access is authorized. This all happens in 0.6 of a second, according to Baidu. The technology is accurate 99.77% of the time.
+
+"You always have your face with you," Baidu chief scientist Andrew Ng told CNNMoney. "Facial recognition, while not a panacea, has a lot of strengths that other authentication methods don't."
+
+Related: FBI's facial-recognition system searchers 411 million images
+
+Using biometrics for authorization is nothing new. Fingerprint scanners have long been used, but they aren't always effective. For example, it's harder to authorize on older users due to how aging changes fingertips.
+
+Meanwhile, some iris-scanning technology can be tricked by printing out a photo of a human eye. Baidu's technology, however, detects when a person isn't live so someone can't beat the system.
+
+Baidu isn't the only company using a person's face for authentication. Microsoft lets users sign into some of its Surface tablets with facial recognition technology.
+
+In September, Uber began requiring U.S. drivers to snap a selfie before their first ride of the day to prevent fraud and protect drivers' accounts. If the photo a driver submits doesn't match what's on file, Uber will block the account until the situation is resolved.
+
+MasterCard has tested using facial recognition to verify its cardholders' identities and make online shopping easier. It will formally launch its program in the first half of 2017, according to a spokeswoman.
+
+Ng said Baidu will allow partners to use its technology, too. One partner is already developing a way to use it to enter the home. Rather than relying on a physical key or punching a code into a door, the door would automatically unlock once a person -- with granted access -- approaches. Ng imagines this will be useful for short-term rentals.
+
+He also sees facial recognition technology as a way to prevent ticket scalping. When you buy a ticket to an event, organizers could require an image of your face and then verify it when you attempt to enter the venue.
+
+Another way Baidu is using the tech: to help Chinese partners grant loans to customers via smartphones. The company uses facial recognition technology to confirm who is using the phone, rather relying on a password.

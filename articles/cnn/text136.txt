@@ -1,0 +1,33 @@
+For months, the ransom money from the massive WannaCry cyberattack sat untouched in online accounts. Now, someone has moved it.
+
+More than $140,000 worth of digital currency bitcoin has been drained from three accounts linked to the ransomware virus that hit hundreds of thousands of computers around the world in May.
+
+It's unclear, though, who emptied the accounts and why. If the WannaCry hackers are finally trying to get their hands on the money, they'll have to outwit law enforcement agencies from around the globe.
+
+It's a fresh twist in the mysterious attack that cybersecurity experts have linked to a hacking group associated with North Korea.
+
+When the WannaCry virus started spreading through more than 150 countries -- infecting hospitals, businesses and government systems -- it demanded that victims pay a $300 ransom using bitcoin.
+
+Related: Why ransomware costs small businesses big money
+
+Bitcoin transactions and accounts are public, but they're also anonymous. The transfers from the WannaCry accounts late Wednesday first drew attention through the Twitter bot @actual_ransom, which was set up to monitor them.
+
+The funds were moved from the three main accounts tied to WannaCry to nine other bitcoin accounts. If the hackers who carried out the cyberattack are moving the ransom money, they're almost certainly aware they're being watched.
+
+Law enforcement officials will be on the alert, tracking where the bitcoin goes, according to Matthieu Suiche, founder of Comae Technologie. Essentially, investigators will be able to see a trail of digital breadcrumbs leading from account to account.
+
+Related: Intelligence agencies link WannaCry cyberattack to North Korea
+
+Europol, the European Union's law enforcement agency, declined to comment on the developments, saying the investigation into WannaCry is ongoing. The U.S. Department of Justice didn't immediately respond to a request for comment outside of regular office hours.
+
+In June, intelligence agencies tied the WannaCry attack to the Lazarus Group, an organization that researchers have linked to the North Korean government.
+
+Melanie Shapiro, CEO of identity security firm Token, said the funds in the bitcoin accounts are probably being moved to make them less traceable.
+
+"We can watch all of this bitcoin be moved around, but inevitably every move makes it harder to trace back to an individual," she said.
+
+Related: Bitcoin split in two, here's what that means
+
+There are services called "tumblers" that let people break up funds into tiny transactions that are harder to trace, Shapiro noted.
+
+For the time being, researchers and officials will be watching the new bitcoin accounts into which the money has been moved in order to track what happens to it next.

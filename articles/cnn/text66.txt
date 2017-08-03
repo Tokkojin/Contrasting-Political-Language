@@ -1,0 +1,35 @@
+If you've been waiting for Google to bring high-speed Internet to your city, don't hold your breath.
+
+Google Fiber is pausing its expansion into new markets, losing its top executive and planning a round of layoffs. It is the clearest signal yet that the ambitious effort may be on life support.
+
+Craig Barratt, the CEO of Access, the division that includes Fiber, announced the changes along with his decision to step down in a blog post late Tuesday.
+
+"In the cities where we've launched or are under construction, our work will continue," Barratt said. But for additional cities that were in talks to receive Google Fiber, "we're going to pause our operations and offices while we refine our approaches."
+
+Barratt also said Google Fiber will be "reducing our employee base." A source familiar with the matter said Google Fiber would cut 9% of staff, or more than 100 employees.
+
+Jessica Reeves, a spokeswoman for Google Access, declined to comment on the layoffs.
+
+Google first announced plans for Fiber in 2010 with the promise of giving customers access to Internet that's "100 times faster" than usual. Since then, Google has rolled out the fiber optic Internet service to Kansas City, Austin, Provo, Utah, and nearly half a dozen others.
+
+Google had planned to bring Fiber to eight more cities, including Los Angeles, Dallas and Oklahoma City, but those plans are now on hold.
+
+Related: Google brings its moonshots back to earth
+
+The cost of wiring up cities with fiber optic cables may have become too high for Google.
+
+Google's parent company Alphabet reported losing $859 million in the June quarter from its "other bets" division, which includes moonshot projects like Fiber. The Internet effort was said to be the main driver of capital expenditures for the unit.
+
+"It shouldn't be a surprise to anyone that building digital infrastructure is an incredibly costly undertaking, and it also shouldn't be a surprise that it's not a terribly profitable one," says Craig Moffett, a telecom analyst with MoffettNathanson. "These kind of enterprises generally end in tears."
+
+For years, Google rarely seemed to bat an eye at the costs of its moonshots. Since restructuring as Alphabet (GOOGL, Tech30) a year ago, however, the company has pushed for more cost management, sometimes to the frustration of employees working on these experimental projects.
+
+"We continue to see Fiber as a huge market opportunity," Ruth Porat, Alphabet's CFO, said on a conference call in July after the company reported bleeding money in this division. "We want to make sure we're executing against a very large and attractive market in the most effective and efficient manner."
+
+Translation: Google will keep Fiber if it can do it at the right cost. On that call, Porat also teased the possibility of shifting from fiber optic cables to wireless technology, which could make the rollout more efficient.
+
+The source familiar with the matter confirmed that Google is focusing on wireless, but said that the use of fiber cables "is not going away."
+
+Alphabet will report third-quarter earnings on Thursday after the bell, which may offer a clearer picture of what's next for Fiber. For now, analysts are hesitant to write off the service for dead.
+
+As Rich Greenfield, an analyst with BTIG Research, put it, "I continue to believe we haven't heard the end yet."

@@ -1,0 +1,41 @@
+All eyes were on bitcoin on Tuesday as the digital currency split in two.
+
+After ongoing debates over how to scale the digital currency called bitcoin, some people have decided to make an entirely new currency called Bitcoin Cash.
+
+It's a bit complicated for those who aren't in the bitcoin weeds. Essentially, political, technological, and ideological debates about growing bitcoin have come to a head. And some say that an entirely new currency called Bitcoin Cash could help scale bitcoin and bring it to the masses.
+
+"The course of the summer has been a battle between competing visions," said Zaki Manain, an independent cryptocurrency expert. This week the competition is playing out.
+
+In order for bitcoin to become a simple global payment system for anyone to use, it needs to get over its growing pains. For some, the solution to that is to make a whole new currency using similar software.
+
+So what does that mean?
+
+Let's start with why scaling bitcoin is tough.
+
+Bitcoin is built on something called a blockchain. The bitcoin blockchain is a public ledger containing all the transaction data from anyone who uses bitcoin. Transactions are added to "blocks" or the links of code that make up the chain, and each transaction must be recorded on a block. But these blocks are full, and it is slowing transactions way down.
+
+Currently, there are an average of about 1,700 transactions that can be saved per bitcoin block, at about three transactions per second, Manain said. That's not very much. (Visa, for example, handles thousands of transactions every second.)
+
+Because the bitcoin blockchain is becoming too congested, someone could pay for something with bitcoin, but it wouldn't be approved for hours.
+
+Related: What is bitcoin?
+
+The bitcoin community tried to solve this problem by implementing a rule change to its software. Called "Segregated Witness," the rule change would let people put more transactions on each block. This, in technical terms, is called a "soft fork," and would not result in an entirely new cryptocurrency. The new rule is supposed be enacted this month.
+
+For some, this was not enough. That's where Bitcoin Cash comes in.
+
+Bitcoin Cash
+
+The creation of Bitcoin Cash is what is called a "hard fork." The creators are releasing a completely new software that allows for eight times the number of transactions per block. This means Bitcoin Cash could process transactions faster.
+
+Bitcoin Cash is not worth the same as bitcoin. As of this writing, a unit of Bitcoin Cash is valued around $240, but one Bitcoin is worth more than $2,700.
+
+Like bitcoin, Bitcoin Cash relies on the community. It will only be successful if people decide en masse to create the blocks for the Bitcoin Cash blockchain. The first block was created Tuesday afternoon EST.
+
+What it means for consumers and businesses
+
+Anyone who owns bitcoin will also own the same number of Bitcoin Cash units. However, not all bitcoin exchanges (where people store their bitcoin) will accept Bitcoin Cash, and that could potentially hinder the widespread adoption of the new digital currency.
+
+And in order for Bitcoin Cash to be used for mainstream transactions like buying coffee, businesses will have to accept it, regardless of whether they already accept bitcoin or not.
+
+"This will be informative for how we deal with these systems in the future," Manain said. "Without a doubt this is going to be a blueprint, and we are going to learn a lot from this process."
