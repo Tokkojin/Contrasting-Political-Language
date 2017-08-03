@@ -39,13 +39,16 @@ def cluster_texts(texts, nb_of_clusters=5):
                                         max_df=0.9,
                                         min_df=0.1,
                                         lowercase=True)
+
         #builds a tf-idf matrix for the sentences
         tfidf_matrix = tfidf_vectorizer.fit_transform(texts)
         kmeans = KMeans(n_clusters=nb_of_clusters)
         kmeans.fit(tfidf_matrix)
         clusters = collections.defaultdict(list)
+
         for i, label in enumerate(kmeans.labels_):
                 clusters[label].append(i)
+
         return dict(clusters)
 
 def w2v(s1,s2,wordmodel):
@@ -157,14 +160,38 @@ if __name__ == '__main__':
     #     file.close()
 
     #     count += 1
-    
+
+
     texts = []
     files = [file for file in glob.glob(path_to_articles + '/**/*.txt', recursive=True)]
     for file in files:
         texts.append(Path(file).read_text())
-    nclusters= 3
+    nclusters= int(len(files)/3)
     clusters = cluster_texts(texts, nclusters)
+
+    path_to_clusters = os.path.join(dir, 'pol_lang/articles/clustered')
+    if not os.path.exists(path_to_clusters): os.makedirs(path_to_clusters)
+
+    # determine what file name count should be 
+    if not numbers(path_to_clusters):
+        count = max(numbers(path_to_clusters))
+        count += 1
+    else:
+        count = 1
+
+    filename = 'text' + str(count) + '.txt'
+    complete_filename = os.path.join(path_to_clusters, filename)
+    print(complete_filename)
+    
+    file = open(complete_filename, 'w')
+
+    count += 1
+
     for cluster in range(nclusters):
+            file.write("cluster " + str(cluster) + ":")
             print ("cluster ",cluster,":")
-            for i,sentence in enumerate(clusters[cluster]):
-                    print ("\tsentence ",i,": ",texts[sentence][:50])
+            for i,text in enumerate(clusters[cluster]):
+                file.write("\tarticle: " +str(i) + ": " + str(texts[text][:30]))
+                print ("\tarticle: ",i,": ",texts[text][:30])
+
+    file.close()
